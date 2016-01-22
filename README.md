@@ -13,7 +13,7 @@ using llvm-3.6.
 #Building#
 
 Before starting all you need is to [install
-docker](https://www.docker.com)(follow the "Get Started" link to get
+docker](https://www.docker.com) (follow the "Get Started" link to get
 OS-specific instructions).
 
 After that you simply run:
@@ -26,3 +26,8 @@ by using the following command:
 All bitcode files are inside the `src` under the `coreutils`
 directory. If you want to get the bitcode files outside the container,
 please refer to docker's documentation on how to do this.
+
+#Credits#
+
+Inspired by [@gbalats](https://github.com/gbalats/) blog
+[post](http://gbalats.github.io/2015/12/10/compiling-autotooled-projects-to-LLVM-bitcode.html).
