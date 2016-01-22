@@ -29,5 +29,5 @@ please refer to docker's documentation on how to do this.
 
 #Credits#
 
-Inspired by [@gbalats](https://github.com/gbalats/) blog
+Inspired by [@gbalats](https://github.com/gbalats/)' blog
 [post](http://gbalats.github.io/2015/12/10/compiling-autotooled-projects-to-LLVM-bitcode.html).
